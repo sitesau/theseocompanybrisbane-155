@@ -1,0 +1,22 @@
+{
+  "wheel_id": 937,
+  "structure": "umbrella",
+  "slug": "theseocompanybrisbane-155",
+  "project": "brisbane-seo-services-b152fdc385e782fbbdb86b8b9ad9de8062914e64",
+  "parent_t1_ref": "theseocompanybrisbane-013",
+  "node_role": "buffer",
+  "money_target": "theseocompanybrisbane.com.au",
+  "primary_kw": "brisbane seo services",
+  "intended_url": "https://aumedia.neocities.org/brisbane-seo-services-b152fdc385e782fbbdb86b8b9ad9de8062914e64/",
+  "tier": "T2",
+  "writeback_nonce": "752b3cfd87bf7e9f",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/brisbane-seo-services-013/",
+      "anchor": "the brisbane seo services overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
